@@ -44,7 +44,7 @@ SRR3414637 | контроль | 20385570 |	19847291 (97.36%)	| 17844858 (87.54%)
 # Часть 2
 Коллаб https://colab.research.google.com/drive/1berid2-bZpcvuhPHEAkPg5Ca2HIeC7SI#scrollTo=pbrtXwc5vkGG
 # MA-plot, показывающий Log2FC для генов
-<img width="681" alt="Снимок экрана 2021-11-28 в 01 54 54" src="https://user-images.githubusercontent.com/93148512/143722626-df7e8ef9-ebf7-46e7-9021-ed10a4c46b08.png">
+![Без названия](https://user-images.githubusercontent.com/93148512/143724017-d47c5dba-333d-4ac4-a9b8-5f949f1692d4.png)
 Видно, что большее количество дифференциально экспрессированных генов увеличило свою экспрессию
 
 # Heatmap, показывающий созависимость экспрессии генов из контрольных и репрограммированных образцов
